@@ -1,0 +1,42 @@
+green light from the lamps, lights, photo realistic, ultra realistic, highly detailed, 8k
+
+Evening, ((Night lights)), ((dark)) outside, night!!, ((dark city lights)), photo realistic, ultra realistic, highly detailed, 8k
+
+more darker floor, ((turn off)) the lights, ultra realistic, highly detailed, 8k, photorealistic, natural lightning
+
+A (((vase))) with a flowers!!!, ultra realistic, highly detailed, 8k, photorealistic
+
+
+day to night transformation, lights off, dark night, dark outside, window with evening lights, photorealistic
+
+sci fi theme, hotel aliens room, cosmic lamp on the wall, Luminescent alien designs, within the confines of the alien hotel room, a lamp resembling a cosmic artifact casts a soothing glow that dances with hues from distant galaxies. Its intricate design channels the energy of unknown constellations, painting the space with an ethereal radiance that whispers of mysteries waiting to be explored beyond the stars., very high detailing, natural lighting
+
+P: sci fi theme, hotel aliens room, cosmic lamp on the wall, Luminescent alien designs, Extraterrestrial light sources, Cosmic glow and radiance, Mysterious lamp sculptures, Enchanted alien artifacts, Intricate light patterns, Celestial hues in lamps, Alien technology brilliance, Eerie yet inviting glow, Space-themed lamp fixtures, Lunar and starlit radiance, Futuristic illumination aesthetics, Ambient glow from distant galaxies intricate detailing, very high detailing, natural lighting,
+
+P: sci fi theme, hotel aliens room, cosmic view from the window, intricate detailing, very high detailing, natural lighting, Nebula-filled panorama, Starlit horizon, Celestial cityscape, Galactic skyline, Radiant constellations, Planet-studded vista, Extraterrestrial auroras, Cosmic cloud formations, Interstellar metropolis, Solar system marvels, Moonscape enchantment, Milky Way marvel, Cosmic twilight hues, Lunar tranquility, Alien astral masterpiece
+
+N: ((unrealistic)), ) ((carton))
+
+OSCF4650
+P-> worn mech sult, (steel metal frust]), Intricate, elegent, sharp focus, we very high detailine, natural lighting, photorealistic, octane render, HDR, 8k, high contrast
+N -> bad anatomy, nude, cartoon, anime, sketches, (worst quality:2), (low quality:2), (normal quality:2), loures, normal quality, ((monochrome)), ((grayscale)) OPENPOSE
+
+P-> toab raider outfit, sci fi design, intricate, elegant, sharp focus, very high detailing, natural lighting, photorealistic, octane render, HOR, Bk, high contrast
+N -> bad anatomy, cartoon, anime, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)),((grayscale)) 
+OPENPOSE
+
+N-> evil dark mage autfit, intricate design, elegant, blurry hackground, very high detailing, natural lighting, photarealistic, octane render, hoe, ax, high contrast -> cartoon, anime, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, nommal quality, ((monochrome)), ((grayscale))
+P-> steampunk rogue outfit, torn cloth, very high detailing, natural lighting, photorealistic, octane render, For, 8k, high contrast N -> unrealistie, cartoun, had anatomy, deformed body parts, lom quality, worst quality, blur, ((monochrome))
+
+OSCF4575
+
+P -> (Steampunk) female evil (Knight), ((dark black)) armor, ( °-> (Steampunk) female evil (Knight), ((dark black)) armor, ((coxy)) glossy look, (dark lord), (intricate ensraving design), share focus, very hish detailins, natural lightins, photorealistic, octane render, bdanatomy), deformed body parts, low quality, worst quality, bad hands, blur, ((weapons))
+Hor, ak, hish contrast
+P.-> (((Rococo/Gathic/et nuevo/Prehistor1c/Indostrial/Indian/Byzantine/1santc/Expresstonist/Korean/Egyptian/Mesapotamian/Tudor/Creek/3avanese/Deconstructivist/Chineseapanese/Renalssance/Baroque/Victarlan))) outfity very Righ detallin N -> ((unrealistic)), ((carton)), digital art, (bad anatony), defonmed body parts, low quality, worst quality, ((had hands)), blur
+P
+-> (((Gothic))) outfit, masterpiece, best quality, very high intricate detailing, sharp focus, natural lighting, (((photorealistic))), octane render, HDR, sk, high contrast -> ((unrealistic)), ((cartoon)), digital art, (bad anatomy), deformed body parts, low quality, worst quality, ((bad hands)), blur
+P -> Harry potter style witch outfit, aged cloth, very high detailing, natural lighting, photorealistic, octane render, HDR, 8k, high contrast 
+N-> ((unrealistic)), ((cartoon)), digital art, (bad anatomy), deformed body parts, lom quality, werst quality, blur
+Fantasy, Persian, desert, sci 41, (explorer outfit), aged torn cloth, very high detalling, natural lighting, photorealistic, dehaze, octane render, HDR, sk, (high contrast), (Cexposed hands)) ((unrnalistic)), ) ((carton)), digital art, (bad anatomy), deformed body pants, low quality, worst quality, ((bad hands)), blun
+masterpiece, best quality, block buster movie, sci fi theme, intricate detailing, sharp edges, very high detailing, natural lighting, photorealistic, octane render, HDR, sk, high contrast
+blockbuster sovie, masterpiece, best quality, star wars style ledi armor, very high detalling, natural lighting, photorealistic, octane render, HDr, sk, high contrast
